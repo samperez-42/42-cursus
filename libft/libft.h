@@ -6,7 +6,7 @@
 /*   By: samperez <samperez@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/10 15:17:11 by samperez          #+#    #+#             */
-/*   Updated: 2024/10/10 18:08:49 by samperez         ###   ########.fr       */
+/*   Updated: 2025/03/17 14:30:09 by samperez         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,8 @@
 # include <stdlib.h>
 # include <string.h>
 # include <strings.h>
+# include "printf.h"
+# include "get_next_line.h"
 
 typedef struct s_list
 {
